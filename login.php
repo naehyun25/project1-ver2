@@ -29,16 +29,16 @@ if(authenticate_user($email,$password)){
         <h1>로그인페이지</h1>
         <form action="" method="post">
             <p>
-                <label for="email">이메일:</label>
-                <input type="email" id="email" name="email">
+                <label for="email"></label>
+                <input type="email" id="email" name="email" placeholder="이메일">
             </p>
             <p>
-                <label for="password">비밀번호:</label>
-                <input type="password" id="password" name="password">
+                <label for="password"></label>
+                <input type="password" id="password" name="password" placeholder="패스워드">
             </p>
-            <p><input type="submit" name="login" value="로그인"></p>
+            <p><input type="submit" name="login" value="로그인" class="loginBtn"></p>
         </form>
-        <p>test 계정정보는 이메일 : user@user.com 비밀번호 : 1234 입니다.</p>
+        <p class ="big">test 계정정보는 이메일 : user@user.com 비밀번호 : 1234 입니다.</p>
         <div class="error">
             <p>
                 <?php

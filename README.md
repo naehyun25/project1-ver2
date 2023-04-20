@@ -42,7 +42,7 @@
 
 ## Room for Improvement
 To do
-- php게시판 디자인
+- php 로그인 디자인
 - Quick메뉴 추가
 
 ## Acknowledgements

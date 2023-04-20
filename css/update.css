@@ -1,0 +1,39 @@
+.update h1{
+    font-size: xx-large;
+    color:#124474;
+    font-weight:600;
+    margin: 0 auto;
+    text-align: center;
+}
+.modify{
+    margin: 0 auto;
+}
+.modifyauthor{
+    text-align: center;
+}
+
+.modifyauthor input{
+    width: 600px;
+    border: 1px solid #e0e0e0;
+}
+.modifyMsg{
+    text-align: center;
+    padding: 10px;
+}
+.modifyMsg *{
+    vertical-align: text-top;
+}
+.modifyMsg textarea{
+    width: 600px;
+    height: 300px;
+    border: 1px solid #e0e0e0;
+}
+.updatebtn{
+    background-color: #024da1;
+    border-radius: 2px;
+    width: 300px;
+    padding: 10px 20px;
+    display: block;
+    margin: 20px auto;
+    color:#fff
+}

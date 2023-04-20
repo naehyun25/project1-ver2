@@ -1,0 +1,35 @@
+.view{text-align: center;}
+.view h1{
+    font-size: xx-large;
+    color:#124474;
+    font-weight:600;
+}
+.view h2{
+    font-size:200;
+}
+.view h3{
+    font-size: 300;
+}
+.view div{
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+}
+.view p{
+    text-align: center;
+}
+
+.modifybtn{
+    background-color: #024da1;
+    border-radius: 2px;
+    width: 300px;
+    padding: 10px 20px;
+    display: block;
+    margin: 20px auto;
+    color:#fff;
+}
+.modifybtn a{
+    color: #fff;
+}

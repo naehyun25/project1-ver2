@@ -1,0 +1,14 @@
+.write h1{
+    font-size: xx-large;
+    color:#124474;
+    font-weight:600;
+    padding: 20px;
+    margin : 0 auto;
+}
+.writeform{
+    padding: 10px;
+}
+.writeform div{
+    margin : 10px auto;
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+.indexBoard h1{
+    font-size: xx-large;
+    color:#124474;
+    font-weight:600;
+}
+.indexBoard h2{
+    font-size:200;
+}
+.indexBoard li{
+    border-top: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+}
+.indexBoard li a{
+    padding: 20px 60px;
+    font-size: 19px;
+    color: #333;
+    font-weight: 400;
+}
+.indexBoardWrite{
+    background-color: #024da1;
+    border-radius: 2px;
+    width: 300px;
+    padding: 10px 20px;
+    display: block;
+    margin: 20px auto;
+    color:#fff
+}
+.indexBoardWrite a{
+    color: #fff;
+}
+.boardbuttons{
+    display:flex;
+    justify-content: flex-start;
+}
+.search{
+    padding: 20px;
+}
+.searchButton{
+    background-color: #081d32;
+    color:#fff;
+    width: 60px;
+}
+.delete{
+    padding: 20px;
+}
+.deleteButton{
+    background-color: #081d32;
+    color:#fff;
+    width: 60px;
+}

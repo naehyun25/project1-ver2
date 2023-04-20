@@ -1,0 +1,19 @@
+.modify h1{
+    font-size: xx-large;
+    color:#124474;
+    font-weight:600;
+    margin: 0 auto;
+    text-align: center;
+}
+.modify div{
+    vertical-align: center;
+}
+.modify button{
+    background-color: #024da1;
+    border-radius: 2px;
+    width: 300px;
+    padding: 10px 20px;
+    display: block;
+    margin: 20px auto;
+    color:#fff
+}

@@ -1,5 +1,10 @@
-.login{
-    background-color: red;
+.login h1{
+    font-size: xx-large;
+    color:#124474;
+    font-weight:600;
+    margin: 0 auto;
+    text-align: center;
+}
+.login p {
     margin: 0 auto !important;
 }
-#password{color: red;}

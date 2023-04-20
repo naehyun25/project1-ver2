@@ -26,6 +26,7 @@ if(authenticate_user($email,$password)){
       include_once('inc/gnb.php');
     ?>
     <div class="inner1700 login">
+        <h1>로그인페이지</h1>
         <form action="" method="post">
             <p>
                 <label for="email">이메일:</label>

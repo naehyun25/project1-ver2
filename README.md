@@ -1,8 +1,8 @@
 # Project Name
 > First Project ver2 - 815 독립기념관(Php버전)
 > 구현화면보기 [_here_](http://naeh.dothome.co.kr/)
-> PHP 게시판 : 전체메뉴 > 참여 > 고객의 소리 에서 확인 가능합니다.
-> 상단 UtilityBar 에서 로그인 확인가능합니다.
+- PHP 게시판 : 전체메뉴 > 참여 > 고객의 소리 에서 확인 가능합니다.
+- 상단 UtilityBar 에서 로그인 확인가능합니다.
 
 
 ## 목차
@@ -16,8 +16,8 @@
 
 
 ## General Information
-> 기획서 보기 [_here_](https://github.com/naehyun25/project1/blob/22c09ebd65501a152b654c49c6aca0f01055bd7e/815project1_proposal.pdf)
-- 기획서 목차
+> 기획서 보기 [_here_](https://github.com/naehyun25/project1-ver2/blob/main/815project1_proposal.pdf)
+> 기획서 목차
 1.제작동기 2. 벤치마킹 3.전략수립 4.프로토타입 5.구현
 
 ## Technologies Used
@@ -29,14 +29,15 @@
 
 ## Features
 - ver2는 php 구현에 집중한 프로젝트로 다른 구현기능은 프로젝트1(버전1)에서 확인 가능합니다. 
-- ver1 보기 [_here_](https://github.com/naehyun25/project1)
+- ##ver1 보기 [_here_](https://github.com/naehyun25/project1)
 - 구현기능 1 : PHP 언어를 사용하여 DB조회, DB출력, DB검색, DB삭제 등의 기능 구현
 - 구현기능 2 : PHP 의 include 함수를 사용하여 코드의 재사용성을 높이고 유지보수를 용이하게함. 
 - 구현기능 3 :  PHP 언어로 로그인 구현
 
 
 ## Screenshots
-[구현화면스크린샷](./images/project1.jpg)
+![](https://github.com/naehyun25/project1-ver2/blob/main/images/project1.jpg)
+
 
 
 ## Room for Improvement

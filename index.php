@@ -18,11 +18,7 @@ require_once('inc/function.php');
         <label for="popup">오늘하루 그만보기</label>
       <button>닫기</button>
     </div>
-<?php
-include_once('inc/quick.php');
-?>
     <div id="wrap">
-    <div id="quick">
       <!-- header -->
       <?php
       include_once('inc/gnb.php');

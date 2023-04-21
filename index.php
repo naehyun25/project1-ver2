@@ -14,6 +14,10 @@ require_once('inc/function.php');
     <div id="layer">
       <p>해당 사이트는 학습용으로 제작되었으며 독립기념관과 무관합니다.</p>
       <p>구직용 포트폴리오로 상업적 목적이 없음을 알립니다.</p>
+      <p>게시판구현</p>
+      <p>"참여 > 고개의 소리"에서 확인가능합니다.</p>
+      <p>로그인 기능구현</p>
+      <p>상단 로그인에서 확인가능합니다.</p>
       <input type="checkbox" id="popup">
         <label for="popup">오늘하루 그만보기</label>
       <button>닫기</button>
